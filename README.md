@@ -1,12 +1,11 @@
 # 💫 About Me:
 
-- 👋 Creator of **Fruit Switch** 🍉🍊<br>
-- 💻 Passionate about coding & game development<br>
-- 📚 Providing tutorials for fellow learners<br>
-- 🏃‍♂️ Runner with Team R, Sparta’s sub-elite<br>
+👋 Creator of Fruit Switch 🍉🍊
+💻 Passionate about coding & game development
+📚 Providing tutorials for fellow learners
 
 🔗 Check out my Steam page here: [Fruit Switch](https://store.steampowered.com/app/2248480/Fruit_Switch/)<br>
-🔭 Currently working on Fruit Switch! Follow my journey on YouTube: [YouTube Channel](https://www.youtube.com/@FruitSwitchTeam)<br>
+🔭 Currently working on Fruit Switch! Follow my journey on YouTube: [Fruit Switch YouTube Channel](https://www.youtube.com/@FruitSwitchTeam)<br>
 🎉 Fun Fact: My game is almost ready for release!
 
 
